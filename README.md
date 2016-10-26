@@ -37,7 +37,8 @@ You can build Web API in VS2013 and EF 6.1.3 code first from existing database
 	- For Lazy Loading use following code at DAL/SchoolModel.cs/constructor 
          this.Configuration.LazyLoadingEnabled = false; 
 
-	- Run project and you will be able to see running Web API like http://localhost:64238/  
+#### Run project and you will be able to see running Web API like 
+	http://localhost:64238/  
 
 #### In chrome extension "Postman" you can see JSON results by browsing URL : 
 	http://localhost:64238/api/Courses 
