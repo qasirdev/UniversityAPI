@@ -5,7 +5,7 @@ You can build Web API in VS2013 and EF 6.1.3 code first from existing database
 #### [Step by Step guide click here for word document to download](https://github.com/qasirdev/UniversityAPI/blob/master/Pictures/Step%20by%20Setp.docx) 
 
 - Restore data base in SQL Server 2014 [Click here](https://github.com/qasirdev/UniversityAPI/tree/master/Database) 
-
+[image](https://github.com/lichao315/Calendar/blob/master/Calendar.png)
 #### Steps for New Project in VS 2013 
 	- Create New Web project 
 	- Select Web API with MVC and no authentication 
